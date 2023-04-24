@@ -4,19 +4,19 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **Node.js, MongoDB**
+- 🔭 I’m currently working on ** React.Js and Firebase **
 
-- 🌱 I’m currently learning **Node.js, Python, MongoDB**
+- 🌱 I’m currently learning ** React.Js and Firebase **
 
 - 👯 I’m looking to collaborate on **Web Dev Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prince9318](https://github.com/prince9318)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Node.js, Python, MongoDB**
+- 💬 Ask me about ** React.Js, HTML, CSS, JavaScript, Python, Firebase **
 
 - 📫 How to reach me **pko62547@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1e-oIJoXfLMO5QqnS6T0_HAybnb-4RiTRmnp2HLjIjIY/edit?usp=sharing](https://docs.google.com/document/d/1e-oIJoXfLMO5QqnS6T0_HAybnb-4RiTRmnp2HLjIjIY/edit?usp=sharing)
+- 📄 Know about my experiences- Resume:- [https://drive.google.com/file/d/1TF9CZi_cuhn0z91Ne77XdLd_2pNWCE8F/view?usp=sharing]
 
 - ⚡ Fun fact **Ctrl+C and Ctrl+V is my Life**
 
