@@ -12,11 +12,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/prince9318](https://github.com/prince9318)
 
-- 💬 Ask me about ** React.Js, HTML, CSS, JavaScript, Python, Firebase **
+- 💬 Ask me about ** React.Js, HTML, CSS, JavaScript, Python, Firebase, MySQL **
 
 - 📫 How to reach me **pko62547@gmail.com**
 
-- 📄 Know about my experiences- Resume:- [https://drive.google.com/file/d/1TF9CZi_cuhn0z91Ne77XdLd_2pNWCE8F/view?usp=sharing]
+- 📄 Know about my experiences- Resume:- [https://drive.google.com/file/d/1kCzi0yYOeCtPKArz2Z8GKSp0NLxLo84g/view?usp=sharing]
 
 - ⚡ Fun fact **Ctrl+C and Ctrl+V is my Life**
 
