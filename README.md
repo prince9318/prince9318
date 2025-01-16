@@ -3,7 +3,7 @@
 ## Full Stack Developer | JavaScript | React.js | Node.js | Express.js | MongoDB
 
 - 🌍  I'm based in Gorakhpur, India
-- 🖥️  See my portfolio at [prince-v](http://milanpanda.netlify.com)
+- 🖥️  See my portfolio at [prince-v](https://prince9318.github.io/portfolio/)
 - ✉️  You can contact me at [pko62547@gmail.com](mailto:pko62547@gmail.com)
 - 🚀  I'm currently working on [Live-Tracking-Location](https://github.com/prince9318/Live-Tracking-Location)
 - 🧠  I'm learning Next.js and MySQL.
