@@ -5,7 +5,7 @@
 - 🌍  I'm based in Gorakhpur, India
 - 🖥️  See my portfolio at [prince-v](https://prince9318.github.io/portfolio/)
 - ✉️  You can contact me at [pko62547@gmail.com](mailto:pko62547@gmail.com)
-- 🚀  I'm currently working on [Live-Tracking-Location](https://github.com/prince9318/Live-Tracking-Location)
+- 🚀  I'm currently working on [MindSpark-Blogs](https://github.com/prince9318/MindSpark-Blogs)
 - 🧠  I'm learning Next.js and MySQL.
 - 🤝  Do you have any project in mind, I'm open to collaborate
 
@@ -27,6 +27,6 @@ src="https://img.shields.io/badge/LinkedIn-follow-blue?style=for-the-badge&logo=
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/prince9318/user-auth-system" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prince9318&repo=user-auth-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/prince9318/Foodie-Services-Delivery" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prince9318&repo=Foodie-Services-Delivery&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/prince9318/user-auth-system" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prince9318&repo=user-auth-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/prince9318/MindSpark-Blogs" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prince9318&repo=MindSpark-Blogs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/prince9318/Restaurant-Food-WebApp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prince9318&repo=Restaurant-Food-WebApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/prince9318/prodesk-project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prince9318&repo=prodesk-project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
