@@ -3,7 +3,6 @@
 ## Full Stack Developer | JavaScript | React.js | Node.js | Express.js | MongoDB
 
 - 🌍  I'm based in Gorakhpur, India
-- 🖥️  See my portfolio at [prince-v](https://new-portfolio-olive-sigma.vercel.app/)
 - ✉️  You can contact me at [pko62547@gmail.com](mailto:pko62547@gmail.com)
 - 🚀  I'm currently working on [MindSpark-Blogs](https://github.com/prince9318/MindSpark-Blogs)
 - 🧠  I'm learning Next.js and MySQL.
