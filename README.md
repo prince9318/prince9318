@@ -1,31 +1,102 @@
-#                                            Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prince Vishwakarma
+# Hi 👋 I'm Prince Vishwakarma  
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"/>
 
-## Full Stack Developer | JavaScript | React.js | Node.js | Express.js | MongoDB
+## 🚀 Full Stack Developer | React.js | Node.js | JavaScript
 
-- 🌍  I'm based in Bangalore, India
-- ✉️  You can contact me at [pko62547@gmail.com](mailto:pko62547@gmail.com)
-- 🚀  I'm currently working on [QuickChat - Webapp](https://github.com/prince9318/chat-app)
-- 🧠  I'm learning Next.js and MySQL.
-- 🤝  Do you have any project in mind, I'm open to collaborate
+I’m a passionate **Full Stack Developer** who enjoys building **scalable, real-time web applications** and solving real-world problems using modern JavaScript technologies.
 
-<a href="https://www.linkedin.com/in/prince-ss/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/badge/LinkedIn-follow-blue?style=for-the-badge&logo=linkedin&color=0891b2&labelColor=1c1917"
-/></a>
+- 🌍 Based in **Bangalore, India**
+- ✉️ Reach me at **[pko62547@gmail.com](mailto:pko62547@gmail.com)**
+- 🚀 Currently building **[QuickChat – Real-Time Chat Web App](https://github.com/prince9318/chat-app)**
+- 🧠 Learning **Next.js** and **MySQL**
+- 🤝 Open to **collaboration, freelance, and full-time opportunities**
 
-### Skills
+<a href="https://www.linkedin.com/in/prince-ss/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" width="36" height="36" alt="Babel" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" />
 </p>
 
-### Socials
+### Backend & Database
+<p align="left">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" />
+</p>
 
-<p align="left"> <a href="https://github.com/prince9318" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture></a> <a href="https://www.linkedin.com/in/prince-ss/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+### Tools & Others
+<p align="left">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" width="36" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" />
+</p>
 
-<br /><br /><br />
+---
 
-<b>Top Repositories</b>
+## 📌 Featured Projects
 
-<div width="100%" align="center"><a href="https://github.com/prince9318/user-auth-system" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prince9318&repo=user-auth-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/prince9318/MindSpark-Blogs" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prince9318&repo=MindSpark-Blogs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+### 🔥 QuickChat – Real-Time Chat Application
+- Real-time messaging using **Socket.io**
+- Authentication & user management
+- Optimized UI with React hooks
+- Scalable architecture for multiple users
 
-<div width="100%" align="center"><a href="https://github.com/prince9318/Restaurant-Food-WebApp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prince9318&repo=Restaurant-Food-WebApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/prince9318/prodesk-project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prince9318&repo=prodesk-project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+👉 **Repo:** https://github.com/prince9318/chat-app
+
+---
+
+## 📊 Top Repositories
+
+<div align="center">
+  <a href="https://github.com/prince9318/user-auth-system">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prince9318&repo=user-auth-system&theme=dark" />
+  </a>
+  <a href="https://github.com/prince9318/MindSpark-Blogs">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prince9318&repo=MindSpark-Blogs&theme=dark" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/prince9318/Restaurant-Food-WebApp">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prince9318&repo=Restaurant-Food-WebApp&theme=dark" />
+  </a>
+  <a href="https://github.com/prince9318/prodesk-project">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prince9318&repo=prodesk-project&theme=dark" />
+  </a>
+</div>
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+<a href="https://github.com/prince9318" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" />
+</a>
+<a href="https://www.linkedin.com/in/prince-ss/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" />
+</a>
+</p>
+
+---
+
+⭐ *If you like my work, feel free to star my repositories!*  
