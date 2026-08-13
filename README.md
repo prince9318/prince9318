@@ -1,13 +1,14 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
 My name is Prince Vishwakarma
 
-## Full Stack Developer | JavaScript | React.js | Node.js | Express.js | MongoDB
+## Full Stack Developer | JavaScript | React.js | Next.js | Node.js | Express.js | PHP | MongoDB | MySQL | Docker | AWS
 
-- 🌍 I'm based in Bangalore, India  
-- ✉️ You can contact me at [pko62547@gmail.com](mailto:pko62547@gmail.com)  
-- 🚀 I'm currently working on [QuickChat - Webapp](https://github.com/prince9318/chat-app)  
-- 🧠 I'm learning Next.js and MySQL  
-- 🤝 Do you have any project in mind, I'm open to collaborate  
+- 🌍 I'm based in Bangalore, India
+- ✉️ You can contact me at [pko62547@gmail.com](mailto:prince9318.v@gmail.com)
+- 🚀 I'm currently working on [QuickChat - Webapp](https://github.com/prince9318/chat-app)
+- 🧠 I'm learning Next.js and MySQL
+- 🤝 Do you have any project in mind, I'm open to collaborate
 
 <a href="https://www.linkedin.com/in/prince-ss/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-follow-blue?style=for-the-badge&logo=linkedin&color=0891b2&labelColor=1c1917" />
@@ -33,6 +34,9 @@ My name is Prince Vishwakarma
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
   </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   </a>
@@ -54,9 +58,6 @@ My name is Prince Vishwakarma
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" width="36" height="36" alt="Babel" />
   </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
-  </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
   </a>
@@ -71,6 +72,12 @@ My name is Prince Vishwakarma
   </a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" />
   </a>
 </p>
 
