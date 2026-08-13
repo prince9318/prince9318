@@ -5,7 +5,7 @@ My name is Prince Vishwakarma
 ## Full Stack Developer | JavaScript | React.js | Next.js | Node.js | Express.js | PHP | MongoDB | MySQL | Docker | AWS
 
 - 🌍 I'm based in Bangalore, India
-- ✉️ You can contact me at [pko62547@gmail.com](mailto:prince9318.v@gmail.com)
+- ✉️ You can contact me at [prince9318.v@gmail.com](mailto:prince9318.v@gmail.com)
 - 🚀 I'm currently working on [QuickChat - Webapp](https://github.com/prince9318/chat-app)
 - 🧠 I'm learning Next.js and MySQL
 - 🤝 Do you have any project in mind, I'm open to collaborate
